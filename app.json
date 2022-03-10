@@ -10,7 +10,7 @@
     "productivity"
   ],
   "repository": "https://github.com/justteen/streammafia",
-  "website": "https://github.com/justteen/mafiauserbot/",
+  "website": "https://github.com/justteen/streammafia/",
   "success_url": "https://t.me/buzzsupport",
   "env": {
     "ENV": {
